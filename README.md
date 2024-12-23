@@ -35,5 +35,7 @@ Appointel is a comprehensive health-focused appointment application designed to 
   - Provides RESTful APIs for secure communication between the frontend and the database.  
 
 - **Database**: MySQL  
-  - Stores user data, doctor profiles, appointments, ratings, and reviews.  
-
+  - Stores user data, doctor profiles, appointments, ratings, and reviews.
+  
+## Demo Video
+- **Link** : https://www.linkedin.com/posts/zayoud-raed-38845524a_dawini-mobileappliaction-activity-7276889534968082433-Rayu?utm_source=share&utm_medium=member_desktop
